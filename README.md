@@ -51,9 +51,3 @@ i write code for the web. i like things that are clean, fast, and quietly expres
 ## socials
 
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/taufiq.dev)
-
----
-
-## stats
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=taufiq-dev&theme=neon&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
